@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Remix: Green screen remover",
+  "description": "A real-time video background remover for green screen footage using canvas processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
